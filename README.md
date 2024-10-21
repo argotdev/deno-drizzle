@@ -1,6 +1,6 @@
 # deno-drizzle
 
-A simple demostration of using the Drizzle ORM with Deno 2. 
+A simple demonstration of using the Drizzle ORM with Deno 2. 
 
 To introspect your own database to create schemas, run:
 
